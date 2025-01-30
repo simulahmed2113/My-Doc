@@ -1,40 +1,30 @@
+## **📊 AI & ML Study Tracker**
 
-## **📊 Tracking System for Goals**
-### **📝 Daily Progress Tracker (Google Sheets or Notion)**
+### **📝 Daily Progress Tracker**
 
-| **Week - 01** |
-|---------|---------------|--------------|-----------------|------------------|
-| **Date** | **Study Topic** | **Hours Spent** | **Notes/Challenges** | **Completed (✅/❌)** |
-|---------|---------------|--------------|-----------------|------------------|
-| 2025-02-01 | Intro AI &ML | 2 |  | ✅ |
-| 2025-02-02 |   | 2 |   | ✅ |
-| 2025-02-03 |   | 2 |   | ✅ |
-| 2025-02-04 |   | 2 |   | ✅ |
-| 2025-02-05 |   | 2 |  | ✅ |
-| 2025-02-06 |  | 2 |   | ✅ |
-| 2025-02-07 |   | 2 |   | ✅ |
+#### **Week 01: Introduction to AI & ML**
 
-| **Week - 02** |
-|---------|---------------|--------------|-----------------|------------------|
-| **Date** | **Study Topic** | **Hours Spent** | **Notes/Challenges** | **Completed (✅/❌)** |
-|---------|---------------|--------------|-----------------|------------------|
-| 2025-02-08 | Python Basics | 2 | Learned loops, lists | ✅ |
-| 2025-02-09 | NumPy | 2 | Practiced arrays | ✅ |
-| 2025-02-10 | Python Basics | 2 | Learned loops, lists | ✅ |
-| 2025-02-11 | NumPy | 2 | Practiced arrays | ✅ |
-| 2025-02-12 | Python Basics | 2 | Learned loops, lists | ✅ |
-| 2025-02-13 | NumPy | 2 | Practiced arrays | ✅ |
-| 2025-02-14 | Python Basics | 2 | Learned loops, lists | ✅ |
+| Date       | Study Topic  | Hours Spent | Notes/Challenges | Completed (✅/❌) |
+|------------|-------------|-------------|------------------|------------------|
+| 2025-02-01 |             | 2           |                  | ✅                |
+| 2025-02-02 |             | 2           |                  | ✅                |
+| 2025-02-03 |             | 2           |                  | ✅                |
+| 2025-02-04 |             | 2           |                  | ✅                |
+| 2025-02-05 |             | 2           |                  | ✅                |
+| 2025-02-06 |             | 2           |                  | ✅                |
+| 2025-02-07 |             | 2           |                  | ✅                |
 
 ### **📈 Weekly & Monthly Reviews**
-- **Weekly Check**: Reflect on progress & challenges. Adjust pace if needed.  
-- **Monthly Check**: Test knowledge with mini-projects & quizzes.  
+
+#### **📅 Weekly Review**
+- ✅ **Progress Reflection**: What was learned?
+- ❌ **Challenges Faced**: Any difficulties?
+- 🔄 **Adjustments**: Do I need to change the study plan?
+
+#### **📆 Monthly Review**
+- 📝 **Mini-Projects & Quizzes**: Test knowledge.
+- 📊 **Self-Assessment**: Rate understanding (1-10).
+- 🎯 **Next Month’s Focus**: Set new goals.
 
 ---
-
-## **🚀 End Goal (After 3 Months)**
-🎯 **Be ready to implement AI in robotics and IoT, work on real-world projects, and compete globally!**  
-
----
-
-This plan gives you structured learning with clear targets and materials. Let me know if you want modifications! 🚀
+> **Tip**: Update this table daily and review weekly/monthly to stay on track! 🚀
